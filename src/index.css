@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --color-primary-1: #4056D6;
+  --color-primary-2: #8190E4;
+  --color-primary-3: #ABB5ED;
+  --color-primary-4: #D5DAF6;
+  --color-primary-5: #F2F4FC;
+  --color-primary: #4056D6;
+  --color-secondary: #B5FFE1;
+}

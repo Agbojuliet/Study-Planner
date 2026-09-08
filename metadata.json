@@ -1,0 +1,6 @@
+{
+  "name": "Student Study Planner",
+  "description": "A mobile-first academic planning and productivity application for higher-education students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
